@@ -1,0 +1,13 @@
+
+body{
+	background: url(image/bg.jpg) no-repeat;
+}
+.adminheader{
+	height: 120px;
+	background-color: green;
+	color: red;
+}
+.deshbord table tr
+{
+	height: 30px;
+}
